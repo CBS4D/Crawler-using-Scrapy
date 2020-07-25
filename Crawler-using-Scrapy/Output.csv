@@ -1,0 +1,624 @@
+age_group,answer,options,question
+16-18, Option C,"A.  Keyboard,B.  Plotter,C.  Scanner,D.  OMR","A light sensitive device that converts drawing, printed text or other images into digital form is"
+16-18, Option B,"E.  None of these,A.  FTP,B.  SMTP,C.  TELNET",Which protocol provides e-mail facility among different hosts?
+16-18, Option A,"D.  SNMP,E.  None of these,A.  John Von Neumann,B.  Charles Babbage",The basic architecture of computer was developed by
+16-18, Option D,"C.  Blaise Pascal,D.  Garden Moore,E.  None of these,A.  $","In order to tell Excel that we are entering a formula in cell, we must begin with an operator such as"
+16-18, Option C,"B.  @,C.  +,D.  =,E.  #",In how many generations a computer can be classified?
+11-12, Option A,"A.  Chicken,B.  Snake,C.  Swan,D.  Crocodile",Choose the word which is different from the rest.
+11-12, Option D,"E.  Frog,A.  Cap,B.  Turban,C.  Helmet",Choose the word which is different from the rest.
+11-12, Option B,"D.  Veil,E.  Hat,A.  Kiwi,B.  Eagle",Choose the word which is different from the rest.
+11-12, Option D,"C.  Emu,D.  Ostrich,E.  Penguin,A.  Rigveda",Choose the word which is different from the rest.
+11-12, Option C,"B.  Yajurveda,C.  Atharvaveda,D.  Ayurveda,E.  Samveda",Choose the word which is different from the rest.
+13-15, Option B,"A.  B,B.  A,C.  H,D.  D","In a lake, there are 10 steps labelled using alphabets from A to J. Starting from step A, every minute a frog jumps to the 4th step from where it started - that is from the step A it would go to the step E and from E it would go to the step I and from I it would go to C etc. Where would the frog be at the 60th minute if it starts at the step A ?"
+13-15, Option A,"E.  E,A.  8 , 6,B.  6 , 4,C.  6 , 8","In a family there are several brothers and sisters. Every 2 boys have brothers as many as sisters and each girl has 2 brothers less than twice as many brothers as sisters. Now find the number of boys and girls.
+
+"
+13-15, Option C,"D.  12 , 10,A.  18,B.  19,C.  20","In a row of trees, a tree is 7"
+13-15, Option A,"D.  21,A.  B,B.  F,C.  C", from left end and 14
+13-15, Option B,"D.  D,A.  12,B.  14,C.  15",  from right end. How many tree are there in the row ?
+13-15, Option B,"A.  Q,B.  R,C.  S,D.  P",In a certain code FIRE is coded as DGPC. What will be the last letter of the coded word for SHOT.
+13-15, Option D,"A.  3,B.  4,C.  6,D.  0","If TOUR is written in a certain code as 1234, CLEAR as 56784 and SPARE as 90847, what will be the 5"
+13-15, Option C,"A.  LIGFT,B.  LGGHT,C.  LGGFT,D.  LLGFE", digit for SCULPTURE in the same code ?
+13-15, Option B,"A.  SUITER,B.  VIOUER,C.  WALKER,D.  SUFFER","If in a certain language PROSE is coded as PPOQE, how is LIGHT coded in that code ?"
+13-15, Option A,"A.  BGYEPYK,B.  BGYPYEK,C.  GLPEYKB","If SUMMER is coded RUNNER, the code for WINTER is"
+16-18, Option C,"A.  Bjarne Stroustrup,B.  James A. Gosling,C.  Dennis Ritchie,D.  Dr. E.F. Codd","
+"
+16-18, Option A,"A.  AT & T's Bell Laboratories of USA in 1972,B.  AT & T's Bell Laboratories of USA in 1970,C.  Sun Microsystems in 1973,D.  Cambridge University in 1972","
+"
+16-18, Option D,"A.  -3.4e38 to 3.4e38,B.  -32767 to 32768,C.  -32668 to 32667,D.  -32768 to 32767","For 16-bit compiler allowable range for integer constants is ________?
+"
+16-18, Option B,"A.  An Editor,B.  A compiler,C.  An operating system,D.  None of these.","
+"
+16-18, Option A,"A.  System programming language,B.  General purpose language,C.  Data processing language","
+"
+11-12, Option D,"A.  100,B.  91,C.  64,D.  81", What will come at the place of question mark ?
+11-12, Option D,"A.  49,B.  36,C.  30,D.  39","1, 9, 25, 49, ?, 121.
+"
+11-12, Option C,"A.  91,B.  51,C.  81,D.  42",What will come at the place of question mark?
+11-12, Option A,"A.  430,B.  420,C.  410,D.  400","
+4, 7, 12, 19, 28, ?
+
+"
+11-12, Option C,"A.  1752,B.  3504,C.  3508",What will come at the place of question mark ?
+11-12, Option B,"A.  True,B.  False,A.  In traditional XHTML close tag for some elements is optional but not encouraged,B.  In traditional HTML close tag for some elements is optional but not encouraged",State whether the given statement is true or false. !DOCTYPE is case sensitive”
+11-12, Option B,"C.  None of the mentioned,D.  In both traditional XHTML and HTML close tag for some elements is optional,A.  Charset in html is “text/html” where as in xhtml it is “application/xml+xhtml”,B.  None of the mentioned",Choose the correct statement of HTML
+11-12, Option B,"C.  Tags and attributes are case-insensitive in HTML but not in XHTML,D.  Special characters must be escaped using character entities in XHTML unlike HTML,A.  The extension of the file “.html”,B.  The “content-type” header",Which of the following is not a difference between HTML and XHTML
+11-12, Option B,"C.  Both “.html” extension and “content-type” header,D.  None of the mentioned,A.  True",What indicates the content in file is HTML when delivered on the network.
+11-12, Option B,,State whether the given statement is true or false. “We can intermix XHTML and HTML 4.01 documents”
+09-10, Option A,"A.  22,B.  24,C.  26,D.  28","If a * b = 2a - 3b + ab, then 3 * 5 + 5 * 3 is equal to?"
+09-10, Option C,"A.  6,B.  10,C.  14,D.  16","If $$p \times q = p + q + \frac{p}{q}{\text{,}}$$    then the value of 8 × 2 is?"
+09-10, Option D,"A.  $$1 + \frac{1}{{x + 4}}$$,B.  x + 4,C.  $$\frac{1}{x}$$,D.  $$\frac{{x + 4}}{x}$$",The value of $$\left( {{\text{1 + }}\frac{1}{x}} \right)$$ $$\left( {{\text{1 + }}\frac{1}{{x + 1}}} \right)$$  $$\left( {{\text{1 + }}\frac{1}{{x + 2}}} \right)$$  $$\left( {{\text{1 + }}\frac{1}{{x + 3}}} \right)$$   is?
+09-10, Option A,"A.  $$\frac{{20}}{{27}}$$,B.  $$\frac{{27}}{{20}}$$,C.  $$\frac{6}{8}$$,D.  $$\frac{8}{6}$$","If $$\frac{a}{b}{\text{ = }}\frac{2}{3}$$   and $$\frac{b}{c}{\text{ = }}\frac{4}{5}{\text{,}}$$   then the ration $$\frac{{a + b}}{{b + c}}$$   equal to?"
+09-10, Option C,"A.  $$\frac{5}{9}$$,B.  $$\frac{2}{7}$$,C.  $$\frac{{10}}{9}$$","If $$\frac{{2a + b}}{{a + 4b}} = 3{\text{,}}$$   then find the value of $$\frac{{a + b}}{{a + 2b}} = ?$$"
+13-15, Option D,"A.  PRQS,B.  PRSQ,C.  QSRP,D.  QSPR",S
+13-15, Option D,"A.  PRSQ,B.  PSQR,C.  SQRP,D.  RPSQ",:	A force of exists between everybody in the universe.
+13-15, Option B,"A.  SRQP,B.  QSPR,C.  SQRP,D.  QPSR","
+P :	Normally it is very small but when the one of the bodies is a planet, like earth, the force is considerable."
+13-15, Option D,"A.  PQRS,B.  PQSR,C.  QPSR,D.  QPRS","
+Q :	It has been investigated by many scientists including Galileo and Newton."
+13-15, Option A,"A.  SRQP,B.  QPSR,C.  RSPQ","
+R :	Everything on or near the surface of the earth is attracted by the mass of earth."
+16-18, Option A,"A.  Artificial Intelligence,B.  Programming Intelligence,C.  System Knowledge,D.  VVLSI",Fifth generation computers are based on
+16-18, Option D,"E.  None of these,A.  Transistor,B.  LSI,C.  VLSI",First generation of computer was based on which technology?
+16-18, Option B,"D.  Vaccum Tube,E.  None of these,A.  Second Generation,B.  Fourth Generation",Microprocessor was introduced in which generation of computer?
+16-18, Option B,"C.  Both (A) and (B),D.  Third Generation,E.  Allof these,A.  Vaccum Tubes",Second generation computers are made of
+16-18, Option C,"B.  Transistors,C.  LSI,D.  VLSI,E.  None of these",Which of the following memory is non-volatile?
+11-12, Option A,"A.  Potassium,B.  Silicon,C.  Zirconium,D.  Gallium",Choose the word which is different from the rest.
+11-12, Option E,"E.  Germanium,A.  Tea,B.  Cinchona,C.  Rubber",Choose the word which is different from the rest.
+11-12, Option D,"D.  Cardamom,E.  Chalk,A.  Hangar,B.  Platform",Choose the word which is different from the rest.
+11-12, Option B,"C.  Dock,D.  Park,E.  Bus stand,A.  Sparrow",Choose the word which is different from the rest.
+11-12, Option D,"B.  Swan,C.  Parrot,D.  Koel,E.  Parrot",Choose the word which is different from the rest.
+13-15, Option B,"A.  15 years,B.  18 years,C.  13 years,D.  7 years","Shan is 55 years old, Sthian is 5 years junior to Shan and 6 years senior to Balan. The youngest brother of Balan is Devan and he is 7 years junior to him. So what is the age difference between Devan and Shan ?"
+13-15, Option C,"A.  Rs.58,B.  Rs.35,C.  Rs.42,D.  Rs.72","Rohit was walking on the street, one boy requested him to donate for cancer patients welfare fund. He gave him a rupee more than half the money he had. He walked a few more steps. Then came a girl who requested him to donate for poor people's fund for which he gave two rupees more than half the money he had then. After that, again a boy approached him for an orphanage fund. He gave three rupees more than half of what he had. At last he had just one rupee remaining in his hand.
+How much amount did Ram have in his pocket when he started?
+
+"
+13-15, Option A,"A.  Volleyball	,B.  Basketball ,C.  Hockey,D.  Cricket","If Football is called Cricket, Cricket is called Basketball, Basketball is called Badminton, Badminton is called Volleyball, Volleyball is called Hockey and Hockey is called Golf, then which of the following games is not played using a ball?
+			
+
+"
+13-15, Option C,"A.  1,B.  2,C.  3,D.  4","If each of the digits in the number 92581473 is arranged in ascending order, what will be the difference between the digits which are fourth from the right and third from left in the new arrangement? The ascending order of the number is 123456789.
+"
+13-15, Option D,"A.  One,B.  Two ,C.   Three","Each vowel of the GLADIOLUS  word is substituted with the next letter of the English alphabetical series and each consonant is substituted with the letters preceding it. How many vowels will be present in the new arrangement?
+ 	
+"
+13-15, Option C,"A.  FEMALS,B.  FALMES,C.  FMELAS,D.  FALEMS","In a certain language PRACTICE is coded as PICCTRAE, how is FLAMES coded in that code ? "
+13-15, Option B,"A.  BARED,B.  BREAD,C.  BRADE,D.  BRAED","If the KNIFE is coded as MPKHG, what do the letters DTGCF stand for ?"
+13-15, Option B,"A.  BSPTR,B.  BSNTR,C.  BNSTR,D.  BSNRT","If the letters GBOQX stand for HAPPY , for which word the letters CROSS stand for ?"
+13-15, Option B,"A.  923,B.  524,C.  342,D.  872","If in a certain language SISTER is coded as 535301 , UNCLE is coded as 84670 and BOY as 129 , how son is coded ?"
+13-15, Option D,"A.  SHOOP,B.  SHOOL,C.  SCOOL","If HARD is coded s 1357 and SOFT is coded as 2468, what do the figures 21448 stand for ?"
+16-18, Option B,"A.  30,B.  32,C.  24,D.  36","
+"
+16-18, Option C,"E.  40,A.  auto,B.  case,C.  main","
+"
+16-18, Option C,"D.  default,E.  register,A.  A number,B.  A special symbol other than underscore","
+"
+16-18, Option B,"C.  Both of the above,D.  An alphabet,A.  _examveda,B.  1examveda","
+"
+16-18, Option D,"C.  exam_veda,D.  examveda1,A.  absiha,B.  asiha","
+
+"
+11-12, Option C,"A.  62,B.  128,C.  479,D.  575",What will come at the place of question mark ?
+11-12, Option B,"A.  391,B.  511,C.  481,D.  421","3, 7, 23, 95, ?
+"
+11-12, Option E,"A.  390,B.  420,C.  435,D.  375",What will come at the place of question mark ?
+11-12, Option A,"E.  Two answer out of four option,A.  78,B.  73,C.  82","7, 26, 63, 124, 215, 342, ?
+"
+11-12, Option B,"D.  84,A.  8,B.  10,C.  4",What will come at the place of question mark ?
+09-10, Option B,"A.  6,B.  8,C.  10,D.  12","If a * b = a + b + ab, then 3 * 4 - 2 * 3 is equal to?"
+09-10, Option B,"A.  4 : 9 : 45,B.  16 : 36 : 45,C.  16 : 36 : 20,D.  4 : 36 : 40","If a : b = 2 : 3 and b : c = 4 : 5, find a"
+09-10, Option C,"A.  6 : 4 : 8 : 10,B.  6 : 8 : 9 : 10,C.  8 : 6 : 10 : 9,D.  4 : 6 : 8 : 10", : b
+09-10, Option C,"A.  8 : 9 : 16,B.  8 : 9 : 12,C.  8 : 9 : 24,D.  4 : 9 : 16", : bc = ?
+09-10, Option D,"A.  144,B.  14.4,C.  1.44","If $${\text{A}}:{\text{B}} = \frac{1}{2}:\frac{3}{8}{\text{,}}$$    $${\text{B}}:{\text{C}} = \frac{1}{3}:\frac{5}{9}$$   and  $${\text{C}}:{\text{D}} = \frac{5}{6}:\frac{3}{4}{\text{,}}$$     then find the ratio of A : B : C : D = ?"
+13-15, Option C,"A.  PSRQ,B.  SPQR,C.  QPRS,D.  RSPQ",S
+13-15, Option A,"A.  QPRS,B.  QSPR,C.  PQRS,D.  PQSR",":	You know my wife, Madhavi, always urged me to give up smoking."
+13-15, Option A,"A.  SRPQ,B.  RQPS,C.  SPQR,D.  PQSR","
+P :	I really gave it up."
+13-15, Option D,"A.  RQPS,B.  QPRS,C.  RSQP,D.  SPQR","
+Q :	And so When I went to jail I said to myself I really must give it up, if for no other reason than of being self-reliant."
+13-15, Option C,"A.  PQRS,B.  PRQS,C.  SRPQ","
+R :	When I emerged from jail, I wanted to tell her of my great triumph."
+16-18, Option C,"A.  Graph Use Interface,B.  Graphical Universal Interface,C.  Graphical User Interface,D.  Graphical Unique Interface",GUI stands for
+16-18, Option C,"E.  None of these,A.  Storage,B.  Output,C.  Input",Any data or instruction entered into the memory of a computer is considered as
+16-18, Option A,"D.  Information,E.  None of these,A.  Execution Time,B.  Delay Time",Time during which a job is processed by the computer is:
+16-18, Option B,"C.  Real Time,D.  Waiting Time,E.  None of these,A.  Rectifier",Which of the following circuit is used as a 'Memory device' in computers?
+16-18, Option D,"B.  Flip Flop,C.  Comparator,D.  Attenuator,E.  None of these",The memory sizes in mainframe computers and advanced technology micro computer are expressed as
+13-15, Option A,"A.  953601347,B.  567903417,C.  953016347,D.  953603741","If TOUR is coded as 1234, CLEAR is coded 56784 and SPARE  as 90847, how will the word SCULPTURE be coded ?"
+13-15, Option D,"A.  N ,M,B.  M ,N,C.  Q ,P,D.  P ,Q","If BOX is coded as CDPQYZ, what will be the last two letters of word in the same code for HERO ?"
+13-15, Option A,"A.  18, 23,B.  14, 19,C.  16, 21,D.  15, 20",Find the correct option for the blank space .
+13-15, Option C,"A.  Dust,B.  Fire,C.  Colour,D.  Water","
+"
+13-15, Option C,"A.  BOX,B.  PENCIL,C.  SHARPENER","If Dust is called Air, Air is called Fire, Fire is called Water, Water is called Colour, Colour is called Rain and Rain is called Dust, where do Fish live ?"
+16-18, Option A,"A.  2, – 1 B. ,2  – 1,C.  2","If integer needs two bytes of storage, then maximum value of an unsigned integer is
+"
+16-18, Option C,"D.  2,E.  None of these,A.  1,B.  -1","What is the correct value to return to the operating system upon the successful completion of a program?
+"
+16-18, Option C,"C.  0,D.  Program do no return a value.,E.  2,A.  start()","Which is the only function all C programs must contain?
+"
+16-18, Option B,"B.  system(),C.  main(),D.  printf(),E.  getch()","Which of the following is not a correct variable type?
+"
+16-18, Option B,"A.  float,B.  real,C.  int,D.  double","What number would be shown on the screen after the following statements of C are executed?
+
+"
+13-15, Option D,"A.  No such letters,B.  One,C.  Two,D.  Three","How many such pairs of letters are there in the word SENDING, each of which has as many letters between its two letters as there are between them in the English alphabets?
+	 	 	
+
+"
+13-15, Option C,"A.  21,B.  28,C.  14,D.  25","A lad was asked his age by his friend . The lad said, ""The number you get when you subtract 25 times my age from twice the square of my age will be thrice your age"". If the friend's age is 14, then the age of the lad is : "
+13-15, Option C,"A.  54,B.  50,C.  48,D.  45","A Parking lot Contains 160 Vehicles. Each Vehicle is either a car or a truck, and each vehicle is either red or green. 70 vehicles are red, and 120 vehicles are cars. If there are 18 green trucks, how many red cars are there?"
+13-15, Option B,"A.  22 Cows,B.  20 Cows,C.  18 Cows,D.  16 Cows",Grass in lawn grows equally thick and in a uniform rate. It takes 24 days for 70 cows and 60 days for 30 cows to eat the whole of the grass. How many cows are needed to eat the grass in 96 days?
+13-15, Option D,"A.  Prabir,B.  Mihir,C.  Mohan","Mohan is older than Prabir. Suresh is younger than Prabir. Mihir is older than Suresh, but younger than Prabir. Who among the four is youngest?
+"
+11-12, Option A,"A.  1060,B.  1950,C.  450,D.  1350",In the following number series a wrong number is given. Find out the wrong number.
+11-12, Option A,"E.  750,A.  	2276,B.  2516,C.  2356","
+150, 450, 750, 1060,1350,1650,1950
+"
+11-12, Option B,"D.  2456,A.  124,B.  122,C.  120",What will come at the place of question mark ?
+11-12, Option A,"D.  118,A.  22,B.  21,C.  20","5690, 5121, 4552, 3983, 3414, 2845, ?
+"
+11-12, Option C,"D.  16,A.  117,B.  119,C.  129",What will come at the place of question mark ?
+11-12, Option E,"A.  Pear,B.  Apple,C.  Litchi,D.  Guava",Choose the word which is different from the rest.
+11-12, Option B,"E.  Orange,A.  Dagger,B.  Hammer,C.  Knife",Choose the word which is different from the rest.
+11-12, Option D,"D.  Sword,E.  Blade,A.  Kanpur,B.  Allahabad",Choose the word which is different from the rest.
+11-12, Option C,"C.  Varanasi,D.  Mathura,E.  Ghazipur,A.  Oyster",Choose the word which is different from the rest.
+11-12, Option B,"B.  Clam,C.  Scallop,D.  Mussel,E.  Mast",Choose the word which is different from the rest.
+09-10, Option B,"A.  1,B.  2,C.  3,D.  2x - 4","If 1 < x < 2, then the value of $$\sqrt {{{\left( {x - 1} \right)}^2}} {\text{ + }}\sqrt {{{\left( {3 - x} \right)}^2}} {\text{ is?}}$$"
+09-10, Option C,"A.  12,B.  35,C.  42,D.  50","If a ⊕ b = (a × b) + b, then 5 ⊕ 7 equals to?"
+09-10, Option C,"A.  1.45,B.  1.88,C.  2.9,D.  3.7",Given that 10
+09-10, Option C,"A.  53.6003,B.  53.603,C.  153.6003,D.  213.0003"," = x, 10"
+09-10, Option B,"A.  93,B.  103,C.  113", = y and x
+11-12, Option A,"A.  Hyper Text Markup Language and EXtensible HyperText Markup Language,B.  Hyper Text Markup Language and EXtensible HyperText Marking Language,C.  Hyper Text Marking Language and EXtensible HyperText Marking Language,D.  None of the mentioned",HTML and XHTML stands for
+11-12, Option C,"A.  h6,B.  heading,C.  h1,D.  head",Choose the correct tag for largest heading in HTML.
+11-12, Option A,"A.  table, thead, tr, td,B.  colspan, table, tr,C.  table, tt, tr, td,D.  none of the mentioned",Which of the following are table tags?
+11-12, Option B,"A.  width=80,B.  width=”80″,C.  WIDTH=”80″,D.  WIDTH=80",Choose the correct XHTML for width attribute and its value.
+11-12, Option B,"A.  i,B.  ii,C.  i and ii","Which of the following options follows content model in HTML?
+"
+13-15, Option C,"A.  Dusk,B.  Dark,C.  Sunshine,D.  Night","If LIGHT is called MORNING, MORNING is called DARK, DARK is called NIGHT, NIGHT is called SUNSHINE and SUNSHINE is called DUSK, when do we sleep ?"
+13-15, Option D,"A.  Butler,B.  Woman,C.  Man,D.  Rogue","If a MAN is called GIRL, GIRL is called WOMAN, WOMAN is called BOY, BOY is called BUTLER and BUTLER is called ROGUE, who will serve in a restaurant ?"
+13-15, Option D,"A.  Quo,B.  Lai,C.  Cui,D.  Heer","If,
+(a) QUO CUI HEER means BOY IS GOOD.
+(b) LAI QUO MEA means SITA IS FAIR.
+(c) RUO LEV MEA means ALL ARE FAIR.
+(d) SI HAI CUI means DOG WAS GOOD.
+then which of the following words stands for BOY ?"
+13-15, Option D,"A.  Chunk,B.  Din,C.  Dink,D.  Shunk","If,
+(A) CHIP DIN CHUNK means STUDENT ATTENDS CLASS.
+(B) DIN SHUNK DINK means ARJUN IS STUDENT.
+(C) JUMP MINK SINK means SCHOOLS ARE GOOD.
+(D) DINK MUP CHIMP means  TEACHER IS TEACHING.
+Then which one of the following is used for Arjun ?"
+13-15, Option A,"A.  8,B.  2,C.  9","1 3 4 means GOOD AND TASTY.
+4 7 8 means SEE GOOD PICTURES.
+7 2 9 means PICTURES ARE FAINT.
+Which of the following stand for SEE ?"
+13-15, Option A,"A.  SPQR,B.  SPRQ,C.  PSRQ,D.  PQRS",S
+13-15, Option A,"A.  QSPR,B.  PSRQ,C.  QRSP,D.  RPQS",:	The Hound of Baskervilles was feared by the people of the area.
+13-15, Option A,"A.  SQPR,B.  SPRQ,C.  SQRP,D.  SRQP","
+P :	Some people spoke of seeing a huge, shadowy form a Hound at midnight on the moor."
+13-15, Option C,"A.  PSRQ,B.  RSQP,C.  RSPQ,D.  SQRP","
+Q :	But they spoke of it in tones of horror."
+13-15, Option B,"A.  QRSP,B.  RPSQ,C.  PRSQ","
+R :	Nobody had actually seen the hound."
+16-18, Option C,"A.  Examveda,B.  Exam_veda,C.  Exam veda,D.  Both A and B","Which of following is not a valid name for a C variable?
+"
+16-18, Option E,"E.  None of these,A.  0289,B.  1289,C.  713",Find the output of the following program. 
+16-18, Option A,"D.  0713,E.  Syntax error,A.  53 65,B.  65 65","
+"
+16-18, Option E,"C.  065 65,D.  053 65,E.  Syntax error,A.  1","Find the output of the following program.
+
+"
+16-18, Option D,"B.  2,C.  3,D.  4,E.  0","
+"
+13-15, Option B,"A.  14 years,B.  22 years,C.  20 years,D.  18 years ","A man is 24 years, older than his son. In two years, his age will be twice the age of his son. The present age of his son is
+"
+13-15, Option B,"A.  15,B.  18,C.  20,D.  25","A family went for a vacation. Unfortunately, it rained daily for 13 days when they were there. But whenever it rained in the mornings, they had clear afternoons and vice versa. In all, they enjoyed 11 mornings and 12 afternoons. How many days in all did they stay there?
+"
+13-15, Option B,"E.  None of these ,A.  M,B.  N,C.  P",M scores more run than N but less than P. Q scores more than N but less than M. Who is the lowest scorer?
+13-15, Option B,"D.  Q,A.  Satish,B.  Girish,C.  Harish",Harish sits on the right of Satish. Satish sits between Manish and Girish. Who sits farthest to the right?
+13-15, Option D,"D.  Manish,A.  W,B.  P,C.  S",If we substitute 1 to 24 indicating hours on the dial of a clock day and night by the letters of the English alphabet their order starting with 
+11-12, Option B,"A.  47,B.  42,C.  45,D.  50",What will come at the place of question mark ?
+11-12, Option D,"A.  129,B.  21,C.  10,D.  356","2, 3, 6, 15, ?, 123
+"
+11-12, Option B,"A.  316,B.  1135,C.  1288,D.  2254",In the following number series a wrong number is given. Find out the wrong number.
+11-12, Option B,"A.  1262,B.  1707,C.  4027,D.  4207","
+"
+11-12, Option A,"A.  Sunday, Sunday,B.  Sunday, Monday,C.  Sunday, Wednesday","
+1, 3, 10, 21, 64, 129, 356, 777
+"
+11-12, Option B,"A.  Producer,B.  Director,C.  Investor,D.  Financier",Choose the word which is different from the rest.
+11-12, Option C,"E.  Entrepreneur,A.  Tricycle,B.  Trident,C.  Trifle",Choose the word which is different from the rest.
+11-12, Option D,"D.  Tricolour,E.  Trilogy,A.  Chameleon,B.  Crocodile",Choose the word which is different from the rest.
+11-12, Option A,"C.  Alligator,D.  Locust,E.  Salamander,A.  Calendar",Choose the word which is different from the rest.
+11-12, Option D,"B.  Year,C.  Date,D.  Month,E.  Day",Choose the word which is different from the rest.
+16-18, Option A,"A.  Red Hat Linux,B.  Microsoft Office,C.  Adobe Pagemaker,D.  Open Office",Which one of the following is not an application software package?
+16-18, Option C,"E.  None of these,A.  Photoshop is a graphical design tool by Adobe,B.  Linux is free and open source software,C.  Linux is owned and sold by Microsoft",Which of the following statement is wrong?
+16-18, Option A,"D.  Windows XP is an operating system,E.  None of the above,A.  Bug,B.  Debug",An error is also known as:
+16-18, Option C,"C.  Cursor,D.  Icon,E.  None of these,A.  an operating system",Microsoft Word is an example of 
+16-18, Option D,"B.  Processing device,C.  Application software,D.  an input device,E.  System Software",Who invented the supercomputer?
+09-10, Option C,"A.  5,B.  3,C.  2,D.  1","If $${3^{x + 3}} + 7 = 250{\text{,}}$$    then x is equal to?"
+09-10, Option C,"A.  31,B.  32,C.  36,D.  37",If $$\frac{1}{4} \times $$ $$\frac{2}{6} \times $$ $$\frac{3}{8} \times $$ $$\frac{4}{{10}} \times $$ $$\frac{5}{{12}} \times $$ . . . . .  $$ \times \frac{{31}}{{64}}$$  $$ = \frac{1}{{{2^x}}}$$   then the value of x is?
+09-10, Option B,"A.  1,B.  2,C.  $${\text{2}}\sqrt 2 $$,D.  $${\text{3}}\sqrt 3 $$","If $$x = 3 + 2\sqrt 2 {\text{,}}$$    then the value of $$\left( {\sqrt x  - \frac{1}{{\sqrt x }}} \right){\text{ is?}}$$"
+09-10, Option A,"A.  1000,B.  999,C.  998,D.  1002","If p = 999, then the value of $$\root 3 \of {p\left( {{p^2} + 3p + 3} \right) + 1} {\text{ is?}}$$"
+09-10, Option A,"A.  7 : 9 : 15,B.  7 : 9 : 5,C.  21 : 35 : 45","If $$\frac{a}{b} = \frac{7}{9},{\text{ }}\frac{b}{c} = \frac{3}{5}{\text{,}}$$    then the value of a : b : c is?"
+11-12, Option B,"A.  i,B.  ii,C.  i and ii,D.  None of the mentioned","Which of the following markup is correct?
+"
+11-12, Option D,"A.  Attributes should be quoted,B.  Tags should nest not tag,C.  Unused elements may be minimized,D.  Unknown attributes are ignored by the browser",Which of the following is not a correct (X)HTML rule?
+11-12, Option B,"A.  2,B.  3,C.  1,D.  0","Identify the count of mistakes in the following markup.
+"
+11-12, Option D,"A.  parsing the markup content (HTML),B.  parsing style information (CSS, XSL, and so on),C.  generating a visual presentation of the formatted content including media files referenced,D.  none of the mentioned","
+"
+11-12, Option B,"A.  WebKit,B.  Gecko,C.  Trident",Rendering engine is not responsible for
+13-15, Option D,"A.  RQSP,B.  SQRP,C.  PSQR,D.  QRPS",S
+13-15, Option C,"A.  SQRP,B.  SQPR,C.  QSRP,D.  QSPR",:	Palaeobotany is the study of fossil plants preserved in rocks dating back in millions of years.
+13-15, Option B,"A.  QSRP,B.  SRQP,C.  RSQP,D.  PRSQ","
+P :	Records of the history of the world are contained in fossils."
+13-15, Option C,"A.  QPRS,B.  SRQP,C.  QRSP,D.  SQRP","
+Q :	Through the ages, plants have evolved from simple to more complex forms."
+13-15, Option D,"A.  PQRS,B.  SPQR,C.  QRPS","
+R :	First there were water plants then land plants appeared during the Paleozoic era."
+13-15, Option B,"A.  a ,B.  pe ,C.  bo ,D.  re","In a certain code JA KI MO PE means AT A FROG'S LEAP, MO LA KI SO means TAKE A LEAP AHEAD and RE BO JA NA means INSECTS ARE FROG'S DIET. Which of the following is code for AT in that language?
+			
+
+"
+13-15, Option B,"A.  9267,B.  927@,C.  92@6,D.  9@67","In a certain language, WEAK is coded as 9%2$ and SKIT is coded as #$7@, then how will WAIT be coded in the same language?
+				
+
+"
+13-15, Option B,"A.  UQPF,B.  YMTB,C.  YMVB,D.  VQFP","In a certain code, THEN is coded as VFGL. How the WORD may be coded?
+			
+
+"
+13-15, Option D,"A.  KANPK ,B.  NPAKN,C.  PKANA ,D.  NAKNA","If A = 4, K = 3, N = 2, P = 1, then the sum of which set of the letters makes the highest number?"
+13-15, Option C,"A.  DNALMAERD,B.  DNALDREAM,C.  DNALMDREA","In a certain code ORCHESTRA is written as ARTSEORCH. How is DREAMLAND written in that code.
+ORESTRA
+"
+16-18, Option D,"A.  printf(""My salary was increased by 15/%!"");,B.  printf(""My salary was increased by 15%!"");,C.  printf(""My salary was increased by 15'%'!"");,D.  printf(""My salary was increased by 15%%!"");","""My salary was increased by 15%""
+Select the statement, which will EXACTLY reproduce the line of text above.
+"
+16-18, Option D,"A.  6,B.  7,C.  12,D.  24","
+
+Assuming a short is two bytes long, what will be printed by the above code?
+"
+13-15, Option C,"A.  February, Hook ,B.  January, Screwdriver,C.  February, Screwdriver","A man used to rob the computers and He is active only for quarter of a year. He robs three computers Vayu, Tejas and Agni. January was unfortunate month for Tejas. Vayu was stolen in March. Now he used three tools Pliers, Screwdriver and Hook to rob all the parts from the computer and Make His own computer. He Rob Monitor from Tejas but Does not use hook. He robs Printer from Vayu and Use Pliers. And from Third Computer he robs Keyboard. 
+i) In which month was Agni stolen?
+ii) Which tool was used for Tejas? 
+
+"
+11-12, Option A,"A.  704,B.  1408,C.  352,D.  2640",What will come at the place of question mark ?
+11-12, Option A,"A.  897,B.  789,C.  987,D.  978","2816, ? , 176, 44, 11.
+"
+11-12, Option A,"A.  DUCTIV,B.  DUCTLY,C.  UCTIV,D.  DUCTI",What will come at the place of question mark ?
+11-12, Option A,"A.  336,B.  366,C.  330,D.  660","113, 225, 449, ? , 1793
+"
+11-12, Option C,"A.  3600,B.  3621,C.  3601",Which of the following will come in place of the question mark (?) in the following sequence?
+11-12, Option B,"A.  Cumin,B.  Groundnut,C.  Cinnamon,D.  Pepper",Choose the word which is different from the rest.
+11-12, Option B,"E.  Clove,A.  Biscuits,B.  Chocolate,C.  Cake",Choose the word which is different from the rest.
+11-12, Option E,"D.  Bread,E.  Pastry,A.  Sweep,B.  Wipe",Choose the word which is different from the rest.
+11-12, Option D,"C.  Scrub,D.  Wash,E.  Stain,A.  Coat",Choose the word which is different from the rest.
+11-12, Option B,"B.  Shirt,C.  Blouse,D.  Trousers,E.  Sweater",Choose the word which is different from the rest.
+11-12, Option A,"A.  True,B.  False,A.  It defers rendering of html page,B.  It defers script execution until the page has been rendered",State true or false. It is faster to render HTML and CSS than to interpret and execute JavaScript.
+11-12, Option B,"C.  It defers rendering of css attributes,D.  None of mentioned,A.  async and defer attributes of script tag execute before the DOMContentLoaded event,B.  defer executes each script sequentially",What is the use of “defer” attribute?
+11-12, Option D,"C.  async executes each script when it is ready,D.  all older browsers supports async attribute,A.  Web browser,B.  Web server",Which of the following statements is false?
+11-12, Option A,"C.  Web matrix,D.  None of the mentioned,A.  Nexus,B.  Netscape Navigator",Which of the following is used to read a HTML page and render it?
+11-12, Option A,C.  Internet Explorer,Which of the following is the first web browser?
+13-15, Option C,"A.  PSRQ,B.  RSPQ,C.  QPSR,D.  PSQR",S
+13-15, Option B,"A.  RSQP,B.  SQPR,C.  SQRP,D.  RSPQ",:	The Bhagavadgita recognises the nature of man and the needs of man.
+13-15, Option A,"A.  RPQS,B.  RPSQ,C.  SRPQ,D.  SQPR","
+P :	All these three aspects constitute the nature of man."
+13-15, Option C,"A.  PSRQ,B.  QPSR,C.  QSRP,D.  SRPQ","
+Q :	It shows how the human being is rational one, an ethical one and a spiritual one."
+13-15, Option A,"A.  QRPS,B.  QSPR,C.  QRSP","
+R :	More than all, it must be a spiritual experience."
+13-15, Option E,"A.  SeptEMbEr,B.  SEpTeMBEr ,C.  SeptembeR,D.  SepteMber","If every alternative letter starting from B of the English alphabet is written in small letter, rest all are written in capital letters, how the month 'September' be written as:"
+13-15, Option A,"E.  None of these,A.  CLUE,B.  GLUE,C.  FLUE","If in a certain code, LUTE is written as MUTE and FATE is written as GATE, then how will BLUE be written in that code?"
+13-15, Option B,"D.  SLUE,A.  CBFFDS,B.  CBMHDS,C.  EBFHDS","In a certain code, FAVOUR is written as EBUPTS. How is DANGER written in that code?"
+13-15, Option C,"D.  EBHHFS,A.  JDOCMF,B.  CLEMNK,C.  HCPFQK","If in a certain language, MIRACLE is coded as NKUEHRL, then how is GAMBLE coded in that language?"
+13-15, Option B,"D.  AELGMN,A.  AJMTVT,B.  AMJXVS,C.  MJXVSU","If DELHI can be coded as CCIDD, how would you code BOMBAY?"
+09-10, Option A,"A.  $$\frac{3}{4}$$,B.  $$\frac{4}{3}$$,C.  $$\frac{3}{7}$$,D.  $$\frac{7}{3}$$",If x : y = 7 : 3 then the value of $$\frac{{xy + {y^2}}}{{{x^2} - {y^2}}}{\text{ is?}}$$
+09-10, Option D,"A.  4,B.  5,C.  6,D.  7","If [p] means the greatest positive integer less than or equal to p, then $$\left[ { - \frac{1}{4}} \right] + \left[ {4 - \frac{1}{4}} \right] + \left[ 3 \right]$$     is equal to?"
+09-10, Option B,"A.  1,B.  9,C.  3,D.  3",The value of $$\frac{{{{\left( {243} \right)}^{\frac{n}{5}}}{{.3}^{2n + 1}}}}{{{9^n}{{.3}^{n - 1}}}}{\text{ is?}}$$
+09-10, Option C,"A.  1.0,B.  0.5,C.  0.6,D.  1.1","If x = 0.5 and y = 0.2, then the value of $$\sqrt {0.6}  \times {\left( {3y} \right)^x}$$   is equal to?"
+09-10, Option C,"A.  $$\frac{4}{9}$$,B.  $$\frac{2}{3}$$,C.  $$\frac{9}{4}$$","If $${x^{x\sqrt x }} = {\left( {x\sqrt x } \right)^x}{\text{,}}$$    then x equals to?"
+11-12, Option B,"A.  99,B.  131,C.  137,D.  124",What will come at the place of question mark ?
+11-12, Option A,"A.  1702,B.  7767,C.  6992,D.  6913","7, 11, 19, 35, 67, ?
+"
+11-12, Option B,"A.  6,B.  8,C.  12 ,D.  16",What will come at the place of question mark ?
+11-12, Option B,"A.  /,B.  /,C.  /,D.  /","8, 22, 64, 190, 568, ?
+"
+11-12, Option B,"A.  7,B.  10,C.  12",What will come at the place of question mark ?
+11-12, Option B,"A.  Japan,B.  India,C.  Sri Lanka,D.  New Zealand",Choose the word which is different from the rest.
+11-12, Option D,"E.  Korea,A.  Spectacles,B.  Goggles,C.  Binoculars",Choose the word which is different from the rest.
+11-12, Option D,"D.  Microphone,E.  Telescope,A.  Shehnai,B.  Bagpipe",Choose the word which is different from the rest.
+11-12, Option C,"C.  Flute,D.  Sitar,E.  Harmonica,A.  Cheetah",Choose the word which is different from the rest.
+11-12, Option B,"B.  Lion,C.  Bear,D.  Tiger,E.  Leopard",Choose the word which is different from the rest.
+11-12, Option A,"A.  Tim Berners Lee,B.  Jacobs,Lan,C.  Marc Andeersen,D.  Mozilla foundation",Who created the first web browser
+11-12, Option B,"A.  True,B.  False,A.  Chrome,B.  Mozilla",State true or false. Nexus is first graphical web browser.
+11-12, Option B,"C.  Internet Explorer,D.  Erwise,A.  BlueGriffon 1.5.2,B.  Aptana studio 3",The open source software version of netscape is
+11-12, Option C,"C.  TextEdit(Mac),D.  Dreamweaver,A.  Internet Development Environment,B.  Integrated Development Environment",Which of the following is not an IDE
+11-12, Option B,C.  Intelligent Development Environment,IDE stands for
+13-15, Option B,"A.  SQPR,B.  QSPR,C.  QRSP,D.  RSQP",S
+13-15, Option B,"A.  QSRP,B.  RPSQ,C.  SRPQ,D.  QPSR",":	While talking to a group, one should feel self-confident and courageous."
+13-15, Option C,"A.  QSRP,B.  RPQS,C.  RPSQ,D.  QPRS","
+P :	Nor is it a gift bestowed by providence on only a few."
+13-15, Option B,"A.  SRQP,B.  QPSR,C.  QPRS,D.  PSRQ","
+Q :	One should also learn how to think calmly and clearly."
+13-15, Option B,"A.  PQRS,B.  RPSQ,C.  QSPR","
+R :	It is like the ability to play golf."
+13-15, Option E,"A.  DIPUTS,B.  DISPUT,C.  DIPUST,D.  DPISTU","In a certain code language, THANKS is written as SKNTHA. How is STUPID written in that code language?"
+13-15, Option B,"E.  None of these,A.  SEGATNAVAD,B.  AVDATNSEGA,C.  AVDATASEGN","In a certain code language, COMPUTRONE is written as PMOCTUENOR. How is ADVANTAGES written in that code?"
+13-15, Option E,"D.  NAVDASEGAT,E.  None of these,A.  XKCQBXPD,B.  XLBQCXPD","In a certain code language, ORIENTAL is written as MBUOFJSP. How is COWARDLY written in that code language? "
+13-15, Option C,"C.  ZMESDPXB,D.  ZMDSEPXB,E.  None of these,A.  PJSFQMBDJE","In a certain code language, STREAMLING is written as CGTVUHOJMN. How will the word PERIODICAL be written in that language?"
+13-15, Option B,"B.  PJSFQMNBJE,C.  QKTGRMBDJE,D.  QKTGRMCEKF,E.  None of these","In a certain code, RAIL is written as KCTN and SPEAK is written as CGRUM. How will AVOID be written in that code?"
+09-10, Option A,"A.  12,B.  -12,C.  0,D.  8","If a = 7, b = 5 and c = 3, then the value of a"
+09-10, Option B,"A.  3,B.  -3,C.  $$\frac{1}{3}$$,D.  $$\frac{1}{7}$$", + b
+09-10, Option C,"A.  $$\frac{2}{3}$$,B.  $$\frac{3}{4}$$,C.  $$\frac{{47}}{{60}}$$,D.  $$\frac{{49}}{{60}}$$", + c
+09-10, Option A,"A.  10,B.  0.01,C.  0.1,D.  100", - ab - bc - ca is?
+09-10, Option D,"A.  1,B.  2,C.  3","If $${{\text{7}}^x}{\text{ = }}\frac{1}{{343}}{\text{,}}$$   then the value of x is?"
+11-12, Option B,"A.  20,B.  22,C.  23,D.  26","36, 34, 30, 28, 24, ... What number should come next?"
+11-12, Option C,"A.  22,B.  24,C.  25,D.  26","22, 21, 23, 22, 24, 23, ... What number should come next?"
+11-12, Option B,"A.  12,B.  14,C.  27,D.  53","53, 53, 40, 40, 27, 27, ... What number should come next?"
+11-12, Option B,"A.  14,B.  15,C.  21,D.  23","21, 9, 21, 11, 21, 13, 21, ... What number should come next?"
+11-12, Option B,"A.  26,B.  28,C.  30","58, 52, 46, 40, 34, ... What number should come next?"
+11-12, Option E,"A.  Flood,B.  Hurricane,C.  Avalanche,D.  Earthquake",Choose the word which is different from the rest.
+11-12, Option E,"E.  Explosion,A.  Ant,B.  Bee,C.  Moth",Choose the word which is different from the rest.
+11-12, Option A,"D.  Midge,E.  Spider,A.  Flute,B.  Guitar",Choose the word which is different from the rest.
+11-12, Option E,"C.  Sitar,D.  Violin,E.  Veena,A.  Treachery",Choose the word which is different from the rest.
+11-12, Option C,"B.  Fraud,C.  Deceit,D.  Swindle,E.  Morbid",Choose the word which is different from the rest.
+11-12, Option D,"A.  990,B.  10,C.  only 1,D.  unlimited",We can define ________ number of sites with one copy of dreamweaver installed on our computer.
+11-12, Option A,"A.  Editable Regions,B.  HTML controllers,C.  Frames,D.  Content Controllers",What should we add to a template in Dreamweaver in order to control where page content goes?
+11-12, Option B,"A.  WebKit,B.  Gecko,C.  Presto,D.  None of the mentioned",Blue Griffon is based on ________ rendering engine
+11-12, Option C,"A.  The images are the same “Mime” type,B.  The images are the same color,C.  The images are the same size,D.  You use the “Constrain” tool",Swapping images in dreamweaver is best if
+11-12, Option D,"A.  includes tools for developing HTML5 pages,B.  abstracts out many css3 effects,C.  supports direct embedding of audio and video files",Choose the inappropriate option with respect to Blue Griffon 1.5.2. Blue Griffon
+16-18, Option C,"A.  Task bar,B.  Windows,C.  Icons,D.  Desktop","Graphical pictures that represent an object like file, folder etc are:"
+16-18, Option D,"E.  None of these,A.  The access time of magnetic disk is much less than that of magnetic tape,B.  Disk storage is less expensive than tape storage,C.  Disk storage is longer lasting than magnetic tape",Which of the following is not an advantage of magnetic disk storage?
+16-18, Option D,"D.  None of the above,A.  Bytes,B.  Kilobytes,C.  Decimal bytes",The 0 and 1 in the binary numbering system are called Binary Digits or
+16-18, Option B,"D.  Bits,E.  None of these,A.  4.5"",B.  3.5""",The size of commonly used floppy disk is
+16-18, Option D,"C.  3.25"",D.  5.5"",E.  None of these,A.  Chomium","The 'IC' chip, used in computers, is made of"
+13-15, Option B,"A.  SPRQ,B.  QPSR,C.  PSRQ,D.  SPQR",S
+13-15, Option C,"A.  SPRQ,B.  RSQP,C.  SPQR,D.  RSPQ",:	Reliogion is not a matter of mere dogmatic conformity.
+13-15, Option A,"A.  RQSP,B.  QRPS,C.  SRPQ,D.  PQRS","
+P :	It is not merely going through the ritual prescribed to us."
+13-15, Option B,"A.  RQPS,B.  QRPS,C.  RQSP,D.  QRSP","
+Q :	It is not a question of ceremonial piety."
+13-15, Option B,"A.  RPQS,B.  RPSQ,C.  PRQS","
+R :	Unless that kind of transformation occurs, you are not an authentically religious man."
+13-15, Option B,"A.  FLKPMROZ,B.  GVINRMZO,C.  RVNIGLKA,D.  MNIVGYEO","If in a certain code language, FLOWER is coded as UOLDVI, then how is TERMINAL coded in that language?"
+13-15, Option B,"A.  CPNCBX,B.  CPNCBZ,C.  CPOCBZ,D.  CQOCBZ","If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that language?"
+13-15, Option C,"E.  None of these,A.  VMRJECN,B.  VMRHACJ,C.  VMRJACJ","If in a certain code, GLAMOUR is written as IJCNMWP and MISRULE is written as OGUSSNC, then how will TOPICAL be written in that code?"
+13-15, Option A,"D.  VNRJABJ,E.  None of these,A.  ROTAGILA,B.  ROTAGAIL","In a certain code, TELEPHONE is written as ENOHPELET. How is ALIGATOR written in that code?"
+13-15, Option B,"C.  ROTAGILE,D.  ROTEGILA,A.  OCOMMO,B.  OCMMNO","If SPIDER is written as PSDIRE in a certain code, how would COMMON be written in that code?"
+09-10, Option B,"A.  $$\frac{3}{4}$$,B.  $$\frac{4}{3}$$,C.  $$\frac{3}{5}$$,D.  $$\frac{5}{3}$$","If $$a = \frac{{\sqrt 5  + 1}}{{\sqrt 5  - 1}}$$   & $$b = \frac{{\sqrt 5  - 1}}{{\sqrt 5  + 1}}{\text{,}}$$    then the value of $$\frac{{{a^2} + ab + {b^2}}}{{{a^2} - ab + {b^2}}}{\text{ is?}}$$"
+09-10, Option C,"A.  3.94,B.  2.39,C.  0,D.  1","If a = 4.36, b = 2.39 and c = 1.97, then the value of a"
+09-10, Option D,"A.  2 : 1,B.  2 : 3,C.  1 : 3,D.  5 : 2", - b
+09-10, Option C,"A.  5 : 2,B.  4 : 3,C.  11 : 3,D.  37 : 19", - c
+09-10, Option B,"A.  $$ \pm \frac{1}{{18}}$$,B.  $$\frac{1}{8}$$,C.  $$ - \frac{1}{5}$$", - 3abc is?
+11-12, Option D,"A.  7,B.  10,C.  14,D.  15","3, 4, 7, 8, 11, 12, ... What number should come next?"
+11-12, Option D,"A.  9,B.  29,C.  32,D.  34","8, 22, 8, 28, 8, ... What number should come next?"
+11-12, Option A,"A.  15,B.  14,C.  13,D.  12","31, 29, 24, 22, 17, ... What number should come next?"
+11-12, Option C,"A.  4.2,B.  4.4,C.  4.7,D.  5.1","1.5, 2.3, 3.1, 3.9, ... What number should come next?"
+11-12, Option B,"A.  52,B.  56,C.  96","14, 28, 20, 40, 32, 64, ... What number should come next?"
+11-12, Option A,"A.  Reader,B.  Writer,C.  Printer,D.  Publisher",Choose the word which is different from the rest.
+11-12, Option A,"E.  Reporter,A.  Arrow,B.  Axe,C.  Knife",Choose the word which is different from the rest.
+11-12, Option A,"D.  Dagger,E.  Sword,A.  Feathers,B.  Tentacles",Choose the word which is different from the rest.
+11-12, Option E,"C.  Scales,D.  Pseudopodia,E.  Flagella,A.  Dog",Choose the word which is different from the rest.
+11-12, Option C,"B.  Horse,C.  Goat,D.  Cat,E.  Fox",Choose the word which is different from the rest.
+11-12, Option A,"A.  True,B.  False,A.  Exo is a cloud-based ide that offers collaboration and deployment features,B.  Exo does not support java and python",State true or false. Maqetta is an open source initiative of the Dojo Foundation to geared towards visual designers through a WYSIWYG user interface.
+11-12, Option D,"C.  Exo supports javascript and html5,D.  Both a and c,A.  ii,B.  i",Choose the correct statement for HTML
+11-12, Option B,"C.  i and ii,D.  None of the mentioned,A.  Apache tomcat,B.  BlueGriffon",Which of following statement is true?
+11-12, Option B,"C.  Jetty,D.  Tornado,A.  True","
+i. Cloud9 has gained particular interest for its integration with GitHub and Bit Bucket authentication integration and real-time collaboration."
+11-12, Option A,,"
+ii. Cloud9 does not account for SSH and FTP access."
+13-15, Option A,"A.  GPAUNR,B.  PGUARN,C.  PGAURN,D.  GPUANR","If STRONG is written as ROTNSG, then how would NAGPUR be written in the same code? "
+13-15, Option B,"A.  EOJDEJFM,B.  EOJDJEFM,C.  MFEDJJOE,D.  MFEJDJOE","In a certain code language, COMPUTER is written as RFUVQNPC. How is MEDICINE written in the same code?"
+13-15, Option A,"E.  None of these,A.  CLJKD,B.  DKJLF,C.  DNHMB","In a certain code language, BOARD is written as EQBNC. How will the word CLIMB be written in that language?
+"
+13-15, Option D,"D.  FNJRO,A.  NBXSSE,B.  NBWRRF,C.  MAVSPE","In a certain code, MOTHER is written as ONHURF. How will ANSWER be written in that code?"
+13-15, Option B,"D.  NBWTRF,E.  None of these,A.  NFMWZMX,B.  NFMWZMV","If in a certain code, CERTAIN is coded as XVIGZRM, SEQUENCE is coded as HVJFVMXV, then how would MUNDANE be coded?"
+11-12, Option B,"A.  11,B.  12,C.  13,D.  14","2, 4, 6, 8, 10, ... What number should come next?"
+11-12, Option D,"A.  205,B.  208,C.  210,D.  211","201, 202, 204, 207, ... What number should come next?"
+11-12, Option A,"A.  404,B.  414,C.  420,D.  445","544, 509, 474, 439, ... What number should come next?"
+11-12, Option A,"A.  20,B.  25,C.  30,D.  50","80, 10, 70, 15, 60, ... What number should come next?"
+11-12, Option C,"A.  108,B.  148,C.  162","2, 6, 18, 54, ... What number should come next?"
+11-12, Option C,"A.  Physics,B.  Chemistry,C.  Geography,D.  Botany",Choose the word which is different from the rest.
+11-12, Option D,"E.  Zoology,A.  Football,B.  Volleyball,C.  Cricket",Choose the word which is different from the rest.
+11-12, Option B,"D.  Chess,E.  Hockey,A.  Trunk,B.  Tree",Choose the word which is different from the rest.
+11-12, Option B,"C.  Fruit,D.  Leaf,E.  Flower,A.  Giraffe",Choose the word which is different from the rest.
+11-12, Option E,"B.  Hyena,C.  Deer,D.  Rhinoceros,E.  Zebra",Choose the word which is different from the rest.
+11-12, Option D,"A.  You Tube,B.  Wikipedia,C.  Meebo,D.  LocalHost",LightTPD is not used by
+11-12, Option B,"A.  WAMP,B.  XAAMP,C.  MAMP,D.  None of the mentioned",Which of the following is not a prepackaged server stack?
+11-12, Option B,"A.  Firefox,B.  Firefox alpha,C.  Firefox Beta,D.  Firefox Aurora",Which of the following is not a channel of mozilla?
+11-12, Option A,"A.  True,B.  False,A.  Add-ons,B.  Plug-ins","State true or false. Google Chrome has its own task manager, which allows you to view and manage your memory and CPU usage”"
+11-12, Option B,C.  Utilities,Which of the following are automatically loaded and operates as a part of browser?
+13-15, Option A,"A.  ITMFKD,B.  ITNFKD,C.  KVOHMF,D.  TIMFKD","If FISH is written as EHRG in a certain code, how would JUNGLE be written in that code?"
+13-15, Option A,"A.  PQJDOVBSJNO,B.  PQJDOUBUJPO,C.  PSJFOVBSJNO,D.  NSHFMVBSJNO","In a certain code, PRODUCTIONS is written as QQPCVEUHPMT. How is ORIENTATION written in that code?"
+13-15, Option C,"E.  None of these,A.  RDKCNL,B.  RFKENM,C.  RFKFNP","In a certain code, BELIEF is written as AFKKDI. How is SELDOM written in that code?"
+13-15, Option C,"D.  TFKENP,E.  None of these,A.  LNNQD,B.  NNNQD","In a certain code, POETRY is written as QONDSQX and OVER is written as PNUDQ. How is MORE written in that code language? "
+13-15, Option B,"C.  NLNQD,D.  NLPQD,E.  None of these,A.  PMOCRETU","In a certain code, INACTIVE is written as VITCANIE. How is COMPUTER written in the same code?"
+16-18, Option A,"A.  OS-2,B.  Windows,C.  DOS,D.  UNIX",Which of the following operating systems is produced by IBM?
+16-18, Option B,"A.  Control,B.  ALU,C.  Register,D.  Cache Memory",The processor which performs arithmetical and logical operations is called
+16-18, Option D,"A.  UNIC,B.  FUNTRIA,C.  BRAINIA,D.  ENIAC",Which was an early mainframe computer?
+16-18, Option C,"A.  Redmond, Washington,B.  Tucson, Arizona,C.  Santa Clara, California,D.  Richmond, Virginia",Where is the headquarters of Intel located?
+16-18, Option B,"A.  3080,B.  4004,C.  8080",Which of the following was the first Intel processor introduced?
+11-12, Option D,"A.  3,B.  3.3,C.  3.5,D.  3.6","5.2, 4.8, 4.4, 4, ... What number should come next?"
+11-12, Option D,"A.  128,B.  226,C.  324,D.  429","8, 6, 9, 23, 87 , ... What number should come next?"
+11-12, Option A,"A.  11, 5,B.  10, 7,C.  11, 8,D.  5, 10","28, 25, 5, 21, 18, 5, 14, ... choose which pair of numbers comes next?"
+11-12, Option B,"E.  10, 5,A.  25, 18,B.  25, 21,C.  25, 29","8, 11, 21, 15, 18, 21, 22, ... choose which pair of numbers comes next?"
+11-12, Option D,"D.  24, 21,E.  22, 26,A.  59, 66,B.  56, 62","9, 16, 23, 30, 37, 44, 51, ... choose which pair of numbers comes next?"
+11-12, Option B,"A.  Bajra,B.  Mustard,C.  Rice,D.  Wheat",Choose the word which is different from the rest.
+11-12, Option A,"E.  Barley,A.  Cot,B.  Sheet,C.  Quilt",Choose the word which is different from the rest.
+11-12, Option C,"D.  Pillow,E.  Blanket,A.  Assassinate,B.  Kill",Choose the word which is different from the rest.
+11-12, Option D,"C.  Kidnap,D.  Stab,E.  Murder,A.  Doe",Choose the word which is different from the rest.
+11-12, Option B,"B.  Bitch,C.  Sorceress,D.  Drone,E.  Mare",Choose the word which is different from the rest.
+11-12, Option B,"A.  Operating System,B.  Website,C.  Interpreter,D.  Internet Browser",Which of the following allows user to view a webpage?
+11-12, Option C,"A.  Hierarchy of objects in ASP.NET,B.  Application programming interface,C.  Convention for representing and interacting with objects in html documents,D.  None of the mentioned",What is DOM in HTML?
+11-12, Option B,"A.  make web page compatible only with IE8,B.  mimic behaviour of IE8,C.  make web page incompatible only with IE8,D.  None of the mentioned",This is used to
+11-12, Option B,"A.  HTML5,B.  HTML5 Shiv,C.  HTML5 Shim,D.  None of the mentioned"," 
+"
+11-12, Option D,"A.  Download the library from the github location,B.  Uncompress the file,C.  Insert the following code inside the head tag",Which one of the following is an open source JavaScript library that enables styling for HTML5 elements in versions of Internet Explorer before IE 9 ?
+13-15, Option B,"A.  RPQS,B.  RPSQ,C.  PRQS,D.  QPRS",S
+13-15, Option D,"A.  SQPR,B.  RQPS,C.  QSRP,D.  PSRQ",:	Politeness is not a quality possessed by only one nation or race.
+13-15, Option D,"A.  PQRS,B.  PSRQ,C.  PRSQ,D.  SPQR","
+P :	One may observe that a man of one nation will remove his hat or fold his hands by way of greetings when he meets someone he knows."
+13-15, Option C,"A.  PQRS,B.  PRSQ,C.  RQPS,D.  RSQP","
+Q :	A man of another country will not to do so."
+13-15, Option D,"A.  QRSP,B.  SPQR,C.  SPRQ","
+R :	It is a quality to be found among all peoples and nations in every corner of the earth."
+13-15, Option D,"A.  ICCRLURA,B.  CRIUCLRA,C.  ICRCLUAR,D.  CRIUCALR","In a certain code, CALANDER is written as CLANAEDR. How is CIRCULAR written in that code?"
+13-15, Option A,"A.  LSEUOAUMM,B.  AUUCOSLMM,C.  AUEUOSEMM,D.  SLUEOAUMM","If in a certain language, EXECUTIVE is coded as TCIEUXVEE, the how is MAUSOLEUM coded in that language?"
+13-15, Option A,"A.  BHSSFKHM,B.  BHSSMHHF,C.  BSHSFHKM,D.  BSSHFMKH","In a certain code language, CREATIVE is written as BDSBFUJS. How is TRIANGLE written in that code?"
+13-15, Option C,"E.  None of these,A.  DSFEJDDXSHKH,B.  JEFSDCXSHKH,C.  JEFSDDXSHKH","In a certain code language, OMNIPRESENT is written as QJONPTSMDRD. How is CREDIBILITY written in that code?"
+13-15, Option E,"D.  JEFSDDZUJMJ,E.  None of these,A.  VOCVZRL,B.  VPCVZRL","In a certain code language, ROUTINE is written as VMRGFLI. How will CRUELTY be written in that code language?"
+16-18, Option B,"A.  WINDOWS.INI,B.  WIN.INI,C.  SYSTEM.INI,D.  GROUP.INI",Window's settings are recorded in
+16-18, Option D,"A.  FTP,B.  SSH,C.  POP3,D.  SMTP",Which network protocol is used to send Email?
+16-18, Option C,"E.  None of these,A.  1963,B.  1969,C.  1971",When was the first e-mail sent?
+16-18, Option C,"D.  1974,A.  Communication,B.  Application,C.  System",Operating System is the most common type of _________ software.
+16-18, Option D,"D.  Word Processing Software,A.  I only,B.  II only,C.  I and II only",Arithmetic logic unit
+11-12, Option B,"A.  2, 46,B.  44, 50,C.  42, 48,D.  40, 42","2, 8, 14, 20, 26, 32, 38, ... choose which pair of numbers comes next?"
+11-12, Option A,"E.  32, 26,A.  19, 33,B.  33, 35,C.  33, 19","9, 11, 33, 13, 15, 33, 17, ... choose which pair of numbers comes next?"
+11-12, Option D,"D.  15, 33,E.  19, 21,A.  9, 10,B.  4, 8","2, 3, 4, 5, 6, 4, 8, ... choose which pair of numbers comes next?"
+11-12, Option E,"C.  10, 4,D.  9, 4,E.  8, 9,A.  26, 23","17, 17, 34, 20, 20, 31, 23, ... choose which pair of numbers comes next?"
+11-12, Option D,"B.  34, 20,C.  23, 33,D.  27, 28,E.  23, 28","6, 20, 8, 14, 10, 8, 12, ... choose which pair of numbers comes next?"
+11-12, Option D,"A.  Turtle,B.  Lamb,C.  Colt,D.  Bitch",Choose the word which is different from the rest.
+11-12, Option D,"E.  Farrow,A.  Raid,B.  Attack,C.  Assault",Choose the word which is different from the rest.
+11-12, Option A,"D.  Defence,E.  Ambush,A.  Tomato,B.  Carrot",Choose the word which is different from the rest.
+11-12, Option E,"C.  Ginger,D.  Potato,E.  Turmeric,A.  Car",Choose the word which is different from the rest.
+11-12, Option B,"B.  Scooter,C.  Helicopter,D.  Aeroplane,E.  Cycle",Choose the word which is different from the rest.
+11-12, Option A,"A.  navigator.userAgent,B.  navigator.user,C.  navigator,D.  return",Which property is used to detect the browser’s user agent and code based on the pertinent cases?
+11-12, Option B,"A.  mq() media Plugin API,B.  addTest() Plugin API,C.  testAllProps() Plugin API,D.  none of the mentioned","Some users have requested tests for IE’s float double margin bug, and support for position:fixed. Which API is suitable for them?"
+11-12, Option B,"A.  Navigator,B.  Modernizr,C.  Geolocation,D.  Google API", ___________ is an open source JavaScript library that allows support for different levels of experiences based on the capabilities of each browser.
+11-12, Option D,"A.  hasEvent(),B.  testAllProps(),C.  testProp(),D.  modernizr.testStyles()",____________ allows you to add custom styles to the document and test an element afterwards.
+11-12, Option B,A.  True,Modernizr does actually add missing functionalities to browsers save for the HTML5 tags styling support.
+13-15, Option D,"A.  PSQR,B.  SRQP,C.  QPRS,D.  RQSP",S
+13-15, Option C,"A.  PSQR,B.  QPRS,C.  QSPR,D.  PSRQ",:	Jawaharlal Nehru was the greatest plan-enthusiast.
+13-15, Option B,"A.  QRPS,B.  QSPR,C.  RPQS,D.  SQRP","
+P :	Under Nehru's advice, the pre-Independent congress set up National Planning Commission in 1938."
+13-15, Option D,"A.  RPQS,B.  RQSP,C.  RSPQ,D.  RPSQ","
+Q :	But he forgot that what could be achieved by force under the communist dictatorship of Russia was not possible under the democratic set up of India."
+13-15, Option B,"A.  SPQR,B.  PQSR,C.  RQPS","
+R :	He took the idea from Russia where Five year plans transformed a very backward country into a top power of the world."
+13-15, Option B,"A.  EHKSDQR,B.  EHKUDQR,C.  EGKUDQR,D.  GJMSFST","In a certain code, TWINKLE is written as SVHOJKD, then how would FILTERS be written in the same code? "
+13-15, Option C,"E.  None of these,A.  EGZBKMRDE,B.  EGZKMRTDF,C.  EGZBKMRTDF","If TRUTH is coded as SUQSTVSUGI, then the code for FALSE will be"
+13-15, Option D,"D.  FGZBKNRTDF,A.  FSHCD,B.  HSJED,C.  FOHCD","In a certain code language, BORN is written as APQON and LACK is written as KBBLK. How will the word GRID be written in that code language?"
+13-15, Option C,"D.  FSHED,E.  None of these,A.  BGINS,B.  SGNIS","In a certain code, CAT is written as SATC and DEAR is written as  SEARD. How would SING be written in that code?"
+13-15, Option C,"C.  SINGS,D.  GNISS,A.  TNEROHEMNTNE,B.  TNEROHEMNNTE","In a certain code, CONVENTIONAL is written as NOCNEVOITLAN. How is ENTHRONEMENT written in that code?"
+16-18, Option A,"A.  allow the computer to store data electronically,B.  store data indefinitely unless you delete it,C.  are secondary memory,D.  All of the above",RAM chips
+16-18, Option A,"A.  Mathematical intensive scientific applications,B.  Data-retrieval operations,C.  Input-output intensive processing,D.  All of the above",Super computers are mainly useful for
+16-18, Option D,"A.  Memory,B.  Processor,C.  Disk and I/O Devices,D.  All of the above",The operating system manages
+11-12, Option D,"A.  43, 18,B.  41, 44,C.  37, 18,D.  37, 41","21, 25, 18, 29, 33, 18, ... choose which pair of numbers comes next?"
+11-12, Option B,"E.  38, 41,A.  25, 15,B.  25, 85,C.  35, 25","75, 65, 85, 55, 45, 85, 35, ... choose which pair of numbers comes next?"
+11-12, Option D,"D.  85, 35,E.  25, 75,A.  47, 52,B.  46, 52","11, 16, 21, 26, 31, 36, 41, ... choose which pair of numbers comes next?"
+11-12, Option C,"C.  45, 49,D.  46, 51,E.  33, 38,A.  39, 44","3, 8, 13, 18, 23, 28, 33, ... choose which pair of numbers comes next?"
+11-12, Option B,"B.  38, 44,C.  38, 43,D.  37, 42,E.  33, 38","84, 78, 72, 66, 60, 54, 48, ... choose which pair of numbers comes next?"
+11-12, Option C,"A.  Modernizr,B.  Modernizr.geolocation,C.  Navigator.userAgent,D.  Modernizr.js", ___________ is used to test whether geolocation is supported in old browsers.
+11-12, Option C,"A.  HasEvent(),B.  Navigator.userAgent,C.  Modernizr.load,D.  None of the mentioned",____________ is a resource loader (CSS and JavaScript) that was made to specifically to work side-by-side with Modernizr.
+11-12, Option A,"A.  True,B.  False,A.  True,B.  False","In case we want to implement a JavaScript fallback, we would need to create a conditional statement using Modernizr."
+11-12, Option A,"A.  body tag,B.  html tag,C.  head tag",Metadata store information about the web page that is not necessarily visible to end users.
+11-12, Option C,,In which part of the HTML metadata is contained?
+13-15, Option B,"A.  PQRS,B.  QRPS,C.  QSPR,D.  RPSQ",S
+13-15, Option A,"A.  PQRS,B.  SRQP,C.  QPRS,D.  QPSR",:	There is only one monkey we can thoroughly recommend as an indoor pet.
+13-15, Option B,"A.  QPRS,B.  SQPR,C.  RSQP,D.  SRPQ","
+P :	They quickly die from colds and coughs after the first winter fogs."
+13-15, Option A,"A.  QRSP,B.  RSQP,C.  RQSP,D.  QRPS","
+Q :	It is beautiful and intelligent Capuchin monkey."
+16-18, Option A,"A.  RAM,B.  ROM,C.  EPROM,D.  PROM",Which of the following memory is volatile
+16-18, Option A,"A.  CPU,B.  Magnetic Tapes and Disks,C.  Video Terminal,D.  Sensors, Mechanical Controllers",Which of the following is the fastest
+16-18, Option B,"A.  1000 bytes,B.  1024 bytes,C.  2048 bytes,D.  512 bytes","A kilobyte also referred to as KB, is equal to:"
+16-18, Option D,"A.  Teleport,B.  Multiplexer,C.  Concentrator,D.  Modem",Which is the device that converts computer output into a form that can be transmitted over a telephone line?
+16-18, Option B,"A.  Computers,B.  Modem,C.  Printer",Which of the following items is not used in Local Area Networks (LANs)
+13-15, Option D,"A.  BEATSLDEIHS,B.  BAETSLEDIHS,C.  BATESLDEIHS,D.  BAETSLDEIHS","In a certain code language, GERMINATION is written as IMGRENNOAIT. How is ESTABLISHED written in that code?"
+13-15, Option D,"E.  None of these,A.  UGHHT,B.  UHJFW,C.  WFJGV","In a certain code, cloud is written as GTRKF. How is SIGHT written in that code?"
+13-15, Option B,"D.  WGJHV,E.  None of these,A.  VXDQ,B.  VZDQ","In a certain code, ROAD is written as URDG. How is SWAN written in that code?"
+13-15, Option B,"C.  VZCP,D.  UXDQ,A.  NGCFGT,B.  NHCGGU","In a certain code, BASIC is written as DDULE. How is LEADER written in that code?"
+13-15, Option D,"C.  OGDFHT,D.  OHDGHU,A.  KQEFPA,B.  OMDGNC","In a certain code, SPRING is written as UNUFRC. How will the word MOBILE be written in that code language?"
+11-12, Option E,"A.  8, 8,B.  11, 11,C.  11, 14,D.  8, 9","20, 20, 17, 17, 14, 14, 11, ... choose which pair of numbers comes next?"
+11-12, Option E,"E.  11, 8,A.  29, 61,B.  27, 20,C.  31, 61","61, 57, 50, 61, 43, 36, 61, ... choose which pair of numbers comes next?"
+11-12, Option E,"D.  22, 15,E.  29, 22,A.  14, 13,B.  18, 21","9, 12, 11, 14, 13, 16, 15, ... choose which pair of numbers comes next?"
+11-12, Option C,"C.  14, 17,D.  12, 13,E.  18, 17,A.  28, 32","4, 8, 22, 12, 16, 22, 20, 24, ... choose which pair of numbers comes next?"
+11-12, Option A,"B.  28, 22,C.  22, 28,D.  32, 36,E.  22, 26","40, 40, 31, 31, 22, 22, 13, ... choose which pair of numbers comes next?"
+11-12, Option D,"A.  Beaker,B.  Glass,C.  Mug,D.  Saucer",Choose the word which is different from the rest.
+11-12, Option A,"E.  Cup,A.  Feeling,B.  Joy,C.  Anxiety",Choose the word which is different from the rest.
+11-12, Option D,"D.  Anger,E.  Sorrow,A.  Nanak,B.  Christ",Choose the word which is different from the rest.
+11-12, Option A,"C.  Buddha,D.  Gandhi,E.  Mahavira,A.  Book",Choose the word which is different from the rest.
+11-12, Option C,"B.  Paper,C.  Pencil,D.  Pen,E.  Sharpener",Choose the word which is different from the rest.
+11-12, Option C,"A.  noindex,B.  nofollow,C.  norepeat,D.  noarchive",Which of the following is not a function of robots meta tag?
+11-12, Option C,"A.  a scheme to be used to interpret the value of the content attribute,B.  a name for the metadata,C.  the character encoding for the HTML document,D.  none of the mentioned",What is the role of charset attribute? It specifies
+11-12, Option C,"A.  noarchive,B.  nofollow,C.  noindex,D.  novalue",__________ prevents the page from being indexed altogether.
+11-12, Option A,"A.  scheme,B.  content,C.  http-equiv,D.  name",Which of the following is not supported in HTML5 ?
+11-12, Option B,"A.  noarchive,B.  nofollow,C.  noindex",__________ prevents search engines from following links inside the page
+13-15, Option B,"A.  PQRS,B.  RPQS,C.  RSPQ,D.  RQPS",S
+13-15, Option B,"A.  QRSP,B.  SQPR,C.  QPRS,D.  PSQR",:	An elderly lady suddenly became blind.
+13-15, Option C,"A.  PRSQ,B.  RPQS,C.  PSQR,D.  RQPS","
+P :	The doctor called daily and every time he took away some of her furniture he liked."
+13-15, Option C,"A.  PQRS,B.  QPRS,C.  PRQS,D.  RPQS","
+Q :	At last she was cured and the doctor demanded his fee."
+13-15, Option C,"A.  PQRS,B.  QSPR,C.  SQRP","
+R :	She agreed to pay a large fee to the doctor who would cure her."
+16-18, Option D,"A.  Computer Startup Loader,B.  OS Version,C.  Kernel,D.  Bootstrap Loader",ROM is needed for storing an initial program called _______.
+16-18, Option B,"E.  None of the above,A.  Hardware,B.  Software,C.  Bacteria",Computer Virus is a _______.
+16-18, Option B,"D.  Freeware,A.  Electronically Erasable Programmable Read-Only Memory,B.  Electrically Erasable Programmable Read-Only Memory,C.  Electrically Enabled Programmable Read Only Memory",EEPROM stands for
+16-18, Option C,"D.   Electronically Enabled Programmable Read Only Memory,E.  None of these,A.  PROM,B.  RAM",The most advanced form of ROM is?
+16-18, Option D,"C.  EEPROM,D.  Cache Memory,A.  Hard Disk,B.  ROM",Another term for Main Memory is
+11-12, Option C,"A.  26, 40,B.  29, 36,C.  40, 25,D.  25, 31","1, 10, 7, 20, 13, 30, 19, ... choose which pair of numbers comes next?"
+11-12, Option E,"E.  40, 50,A.  70, 65,B.  60, 70,C.  60, 75","10, 20, 25, 35, 40, 50, 55, ... choose which pair of numbers comes next?"
+11-12, Option C,"D.  60, 65,E.  65, 70,A.  25, 22,B.  26, 23","42, 40, 38, 35, 33, 31, 28, ... choose which pair of numbers comes next?"
+11-12, Option E,"C.  26, 24,D.  25, 23,E.  26, 22,A.  36, 40","6, 10, 14, 18, 22, 26, 30, ... choose which pair of numbers comes next?"
+11-12, Option B,"B.  33, 37,C.  38, 42,D.  34, 36,E.  34, 38","8, 12, 9, 13, 10, 14, 11, ... choose which pair of numbers comes next?"
+13-15, Option A,"A.  TAECEHR,B.  TCAEHER,C.  TAECHER,D.  TAEECHR","In a certain code, CONDEMN is written as CNODMEN. How will TEACHER be written in that code?"
+13-15, Option B,"A.  AKNUARRANKA,B.  KAANRAURNAAK,C.  NKKRANKRAUK,D.  RURNKAAUNAK","In a certain code, VISHWANATHAN is written as NAAWTHHSANIV. How is KARUNAKARANA written in that code?"
+13-15, Option D,"A.  MJTUDQ,B.  KHRSFW,C.  MJTWFS,D.  MJTSFW","In a certain code, COVALENT is written as BWPDUOFM and FORM is written as PGNS. How will SILVER be written in that code?"
+13-15, Option B,"E.  None of these,A.  DLDSTVQ,B.  DLDSRTO,C.  FNFSRTO","In a certain code, BROUGHT is written as SGFVAQN. How is SUPREME written in that code?"
+13-15, Option C,"D.  RTOSDLD,E.  None of these,A.  ORNP,B.  PNRO","In a certain code language, HAND is written as SZMW, then what will be the code of MILK?"
+11-12, Option A,"A.  Brick,B.  Heart,C.  Bridge,D.  Spade",Choose the word which is different from the rest.
+11-12, Option D,"E.  Club,A.  Tomato,B.  Cucumber,C.  Brinjal",Choose the word which is different from the rest.
+11-12, Option E,"D.  Carrot,E.  Gourd,A.  Coarse,B.  Unrefined",Choose the word which is different from the rest.
+11-12, Option A,"C.  Vulgar,D.  Oafish,E.  Blunt,A.  Seal",Choose the word which is different from the rest.
+11-12, Option D,"B.  Scorpion,C.  Fish,D.  Lion,A.  Month",Choose the word which is different from the rest.
+11-12, Option D,"A.  scheme,B.  content,C.  http-equiv,D.  name",Different meta tags are defined by changing the __________ attribute to a valid value.
+11-12, Option C,"A.  nobot,B.  nofollow,C.  noarchive,D.  nosearch",__________ prevents search engines from showing a cached link for the page.
+11-12, Option B,"A.  scheme,B.  content,C.  http-equiv,D.  name",The value of the ___________ attribute refers to the time interval in seconds before the refresh is performed.
+11-12, Option B,"A.  Macrodata,B.  Microdata,C.  Minidata,D.  Modifydata",__________ is an HTML specification used to add more information to HTML tags.
+11-12, Option A,"A.  Item,B.  Property,C.  Value",The microdata model consists of groups of name-value pairs known as
+13-15, Option C,"A.  PSQR,B.  RPSQ,C.  QSPR,D.  SRPQ",S
+13-15, Option A,"A.  PSQR,B.  RPSQ,C.  QRPS,D.  SQRP",:	The study of speech disorders due to brain injury suggests that patients can think without having adequate control over their language.
+13-15, Option A,"A.  SQPR,B.  PQSR,C.  RSQP,D.  QPRS","
+P :	But they succeed in playing games of chess."
+13-15, Option B,"A.  RSQP,B.  RQSP,C.  PQRS,D.  QPRS","
+Q :	Some patients, for example fail to find the names of objects presented to them."
+16-18, Option B,"A.  .doc,B.  .docx,C.  .pdf,D.  .txt",The file extension of MS-Word document in Office 2007 is _______.
+16-18, Option C,"E.  .xls,A.  Communicate with hard disks,B.  Donwload files,C.  Communicate with other computer peripherals",A computer port is used to?
+16-18, Option B,"D.  None of the above,A.  1024 Byte,B.  1024 KB,C.  1000 KB ",One MB is equal to?
+16-18, Option A,"D.  1024 GB,A.  Printers,B.  Software,C.  Monitors","Dot-matrix, Deskjet, Inkjet and Laser are all types of which computer peripherals?"
+11-12, Option B,"A.  Kennel,B.  House,C.  Stable,D.  Aviary",Choose the word which is different from the rest.
+11-12, Option D,"E.  Aquarium,A.  Tortoise,B.  Duck,C.  Snake",Choose the word which is different from the rest.
+11-12, Option A,"D.  Whale,E.  Crow,A.  Cliff,B.  Canyon",Choose the word which is different from the rest.
+11-12, Option E,"C.  Gulch,D.  Gorge,E.  Ravine,A.  Actor",Choose the word which is different from the rest.
+11-12, Option E,"B.  Artist,C.  Musician,D.  Dancer,E.  Poet",Choose the word which is different from the rest.
+11-12, Option C,"A.  itemtype,B.  relevant types,C.  itemscope,D.  none of the mentioned",Every HTML element may have an ____________ attribute specified.
+11-12, Option B,"A.  The value is the item created by the element.,B.  The value is the value of the element’s value attribute, if it has one, or the empty string otherwise,C.  On getting, if the element has a datetime content attribute, the IDL attribute must return that content attribute’s value,D.  The value is the element’s textContent.",Which of the following is true if the property value of a name-value pair added by an element with an itemprop attribute is a meta element ?
+11-12, Option A,"A.  The value is the element’s datetime value.,B.  The value is the value of the element’s content attribute, if any, or the empty string if there is no such attribute.,C.  The value is the value of the element’s value attribute, if it has one, or the empty string otherwise.,D.  The value is the element’s textContent.",Which of the following is true if the property value of a name-value pair added by an element with an itemprop attribute is a time element ?
+11-12, Option C,"A.  token,B.  typed item,C.  global identifier,D.  none of the mentioned",The ___________ of an item is the value of its element’s itemid attribute.
+11-12, Option B,"A.  itemscope,B.  dom object,C.  collection.namedItem","If the element has an itemscope attribute, it returns an __________ object with all the element’s properties."
+13-15, Option C,"A.  PQSR,B.  PRQS,C.  QPRS,D.  QPSR",S
+16-18, Option C,"A.  IBM,B.  Apple,C.  Microsoft,D.  Macromedia",AVI(Audio Video Interleave) format was developed by?
+16-18, Option C,"E.  Adobe,A.  RAM,B.  Hard Disk,C.  Cache",______ is the high speed memory used in the computer.
+16-18, Option A,"D.  BIOS,A.  Asks for information,B.  Provides information and files,C.  Serves software files to other computers","In a client/server model, a client program _______."
+13-15, Option B,"A.  PSQR,B.  QPSR,C.  RQPS,D.  RPSQ",:	A noise started above their heads.
+13-15, Option A,"A.  SRPQ,B.  SQRP,C.  PSQR,D.  QPRS","
+P :	But people did not take it seriously."
+13-15, Option C,"A.  SPRQ,B.  PSRQ,C.  QSPR,D.  RQPS","
+Q :	That was to show everyone that there was something wrong."
+13-15, Option C,"A.  PRSQ,B.  QPSR,C.  QPRS","
+R :	It was a dangerous thing to do."
+16-18, Option C,"A.  Output Device,B.  Input Device,C.  Program,D.  Processor",General purpose computers are those that can be adopted to countless uses simply by changing its
+13-15, Option A,"A.  QPRS,B.  PRSQ,C.  PQRS,D.  QRSP",S
+13-15, Option B,"A.  PRQS,B.  QPRS,C.  QRPS,D.  SPQR",:	Several sub-cities have been planned around capital.
+13-15, Option C,"A.  PSQR,B.  QSPR,C.  QSRP,D.  PRQS","
+P :	Dwarga is the first among them."
+13-15, Option C,"A.  PQSR,B.  SQPR,C.  QSPR,D.  PQRS","
+Q :	They are expected to alleviate the problem of housing."
+13-15, Option A,"A.  SQPR,B.  RPSQ,C.  QPRS","
+R :	It is coming up in the south west of capital."
+16-18, Option D,"A.  Mainframe,B.  Super conductor,C.  Micro computer,D.  Super computer",Which of the following is the most powerful type of the computer?
+16-18, Option D,"E.  None of these,A.  It is a part of the CPU,B.  It allows very fast access to data,C.  It is relatively more expensive",Which of the following is true about primary storage?
+16-18, Option C,"D.  All of the above,A.  Text,B.  CPU,C.  Program",A list of instructions used by a computer is called
